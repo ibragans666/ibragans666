@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Sertifikat Python",
+      "imageUrl": "/dist/img/sertif_python.png",
+      "pdfUrl": "https://drive.google.com/file/d/1ErYX__mOPdFCCGVlSRwt2NAHTLtE4FOp/view?usp=drive_link"
+    },
+    {
+      "name": "Sertifikat Basic Data Science",
+      "imageUrl": "/dist/img/sertif_ds.png",
+      "pdfUrl": "https://drive.google.com/file/d/1SjJKlOi69fYHo6j8GUiT74o0LeFKJb5l/view?usp=drive_link"
+    },
+    {
+      "name": "Sertifikat Data Analyst",
+      "imageUrl": "/dist/img/sertif_da.png",
+      "pdfUrl": "https://drive.google.com/file/d/1tPatlGpPovziaSUwll0KtT2vfnyMK7HU/view?usp=drive_link"
+    },
+    {
+      "name": "Sertifikat Basic SQL",
+      "imageUrl": "/dist/img/sertif_sql.png",
+      "pdfUrl": "https://drive.google.com/file/d/1u_KvLsQMs7JZRbWELezqfyhaKTu1z6B6/view?usp=drive_link"
+    },
+    {
+      "name": "Sertifikat Basic Data Visualization",
+      "imageUrl": "/dist/img/sertif_data_viz.png",
+      "pdfUrl": "https://drive.google.com/file/d/1xbFjq3nYFDCl2pWc4suLt-y9fogOepC8/view?usp=drive_link"
+    },
+    {
+      "name": "Sertifikat Basic Machine Learning",
+      "imageUrl": "/dist/img/sertif_ml.png",
+      "pdfUrl": "https://drive.google.com/file/d/1WtZlNyB0Hm5xiJjeOUiLAhohBX4ZlU_o/view?usp=drive_link"
+    }
+  ]
+  
