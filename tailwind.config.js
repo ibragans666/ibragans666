@@ -8,6 +8,7 @@ module.exports = {
     },
     fontFamily : {
       sans: [ "Nunito", "sans-serif" ],
+      lobster: ['Lobster', 'cursive'],
 
     },
     extend: {
