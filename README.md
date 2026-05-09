@@ -3,55 +3,34 @@
 </p>
 
 <div align="center">
-  <h1>Hi there, I'm Ibra! 👋</h1>
-  <h3>Informatics Student | Aspiring AI Researcher | Web & AI Developer</h3>
-  <p>Based in Yogyakarta, Indonesia 🇮🇩</p>
+  <h1>Hi there, I'm Ibra!</h1>
+  <h3>Data Scientist | Data Engineer | AI Researcher | NLP Specialist</h3>
+  <p><i>Crafting advanced data pipelines, intelligent systems, and state-of-the-art NLP models.</i></p>
 </div>
 
----
+<hr style="width: 80%; border: 1px solid #e1e4e8;">
 
-### 👨‍💻 About Me
+<h3 align="center">Tech Stack & Ecosystem</h3>
 
-Hello! I'm Fara Daud Ibra, an Informatics student at Universitas Teknologi Yogyakarta (UTY). I have a deep passion for exploring Artificial Intelligence architectures and building blazing-fast web ecosystems. 
-
-My long-term dreams are quite diverse: I aspire to become an AI Researcher, a musical composer/conductor, and perhaps one day, a mathematics teacher in Switzerland. Right now, I focus on crafting code and training AI models to solve real-world problems (and occasionally, musical ones).
-
-### 🛠️ Tech Stack & Ecosystem
-
-**AI & Machine Learning:**
-* **Architecture:** Mixture of Experts (MoE), Sparse MoE, Transformers.
-* **Focus:** Advanced natural language processing and vector representation utilizing *embeddings* (bypassing conventional TF-IDF approaches), alongside ONNX implementations for Computer Vision.
-
-**Web Development:**
-* **Languages & Runtime:** TypeScript, Rust, Bun.
-* **Frameworks:** ElysiaJS, SolidJS.
-* **Databases & Tools:** Supabase, Drizzle ORM.
-
-### 🚀 Featured Projects
-
-* 🎸 **Hamisfera:** A two-stage AI system that recommends guitar chord progressions by analyzing song lyrics. This project integrates XLM-R, MoE, and Transformer architectures, relying heavily on logic embeddings to generate harmonious results.
-* 🌿 **Dokter Tani AI:** A hackathon project utilizing Computer Vision (ONNX) and Generative AI for automated detection and diagnosis of plant diseases.
-* 📊 **Super App - Brand Sentiment:** Developing the backend infrastructure using the Bun ecosystem, ElysiaJS, and Drizzle ORM to analyze and monitor brand sentiment in real-time.
-
-### 🎸 Beyond Coding...
-
-When I'm not training models or debugging, you can probably find me:
-* Geeking out over music theory (guitar scales, tritone substitutions, and chord voicings).
-* Clearing daily quests in HoYoverse games (Honkai Impact 3rd, HSR, Genshin), Blue Archive, or Punishing Gray Raven.
-* Pushing my limits with no-rest calisthenics routines and sprinting.
-* Hunting for good local coffee around Jogja to boost my productivity.
-
----
-
-<div align="center">
-  <p><b>Let's talk about AI, Web Dev, or Music Theory!</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
+  <br>
   
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</div>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFAA21?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <br>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/ElysiaJS-FFB7DA?style=for-the-badge&logoColor=black" alt="ElysiaJS" />
+</p>
 
-<br>
-
-<div align="center">
-  <i>"Building the future with intelligent systems and perfect chords."</i>
-</div>
+<hr style="width: 80%; border: 1px solid #e1e4e8;">
