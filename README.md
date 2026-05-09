@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/ea/c2/19/eac219051ddc1917670f393b6ff302ab.jpg" width="400" alt="Gambar Profil">
+  <img src="https://i.pinimg.com/1200x/ea/c2/19/eac219051ddc1917670f393b6ff302ab.jpg" width="100%" alt="Banner Penuh">
 </p>
 
 <div align="center">
