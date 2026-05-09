@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/ea/c2/19/eac219051ddc1917670f393b6ff302ab.jpg" width="400" alt="Gambar Profil">
+</p>
+
 <div align="center">
   <h1>Hi there, I'm Ibra! 👋</h1>
   <h3>Informatics Student | Aspiring AI Researcher | Web & AI Developer</h3>
